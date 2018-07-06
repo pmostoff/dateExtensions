@@ -1,6 +1,6 @@
 # dateExtensions
 
-This Swift Playground contains a few simple extension functions to the Swift Date type that I've found useful to have at my disposal.
+This Swift Playground contains a few simple extension functions to the Swift Date type that I've found useful in my own projects.
 
 ### toString
 Accepts .full, .long, .medium, and .short arguments
@@ -23,7 +23,7 @@ Accepts .day, .week, .month, .year, and .time arguments
 Returns a date value for the beginning of the passed in timeframe
 
 ## Installation
-Simply copy and the paste the extension Date { } portion of the playground into your project.
+Simply copy and the paste the `extension Date { }` portion of the playground into your project. You can include the extension in its own file or within an existing Swift file in your project.
 
 ## Requirements
 dateExtensions was built and tested using:
